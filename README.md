@@ -1,3 +1,5 @@
+#THIS IS NOT FROM ME 
+
 # Dehashed Query and Crack
 1: <b>dehashed.py</b> is a  <a href="https://dehashed.com">dehashed.com</a> query tool which only queries 'domain' as of now. It will output the gathered cleartext passwords and hashes to a file.
 
